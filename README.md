@@ -11,4 +11,4 @@ This is a simple Python project that generates strong random passwords.
 - Python
 
 ## Author
-Kashish
+Nakul Malik
